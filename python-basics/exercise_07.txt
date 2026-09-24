@@ -1,0 +1,61 @@
+Programming Exercise: AB and BA Substrings
+Given a string s consisting of uppercase English letters, determine whether it contains both AB and BA as non-overlapping substrings.
+The two substrings must occur in the correct order within the string, and they must not share any characters.
+If either of the following patterns exists:
+•	AB appears before BA
+•	BA appears before AB
+print YES. Otherwise, print NO.
+Input
+The input contains a single string s consisting of uppercase English letters.
+Output
+Print:
+•	YES if the string contains both AB and BA as non-overlapping substrings.
+•	NO otherwise.
+Examples
+Input:
+ABA
+Output:
+NO
+Input:
+BACFAB
+Output:
+YES
+Input:
+ABAB
+Output:
+NO
+Explanation
+For the answer to be YES, AB and BA must be found as separate, non-overlapping substrings. For example, in BACFAB, the substring BA appears at the beginning and AB appears later, so the answer is YES.
+----------------------------------------------------------------------------------------------
+تمرین برنامه‌نویسی: زیررشته‌های AB و BA
+یک رشته شامل حروف انگلیسی بزرگ (A-Z) به شما داده می‌شود. برنامه‌ای بنویسید که بررسی کند آیا در این رشته، هر دو زیررشته‌ی AB و BA به صورت غیرهم‌پوشان وجود دارند یا خیر.
+دو زیررشته می‌توانند به یکی از دو حالت زیر در رشته ظاهر شوند:
+•	AB قبل از BA قرار گرفته باشد.
+•	BA قبل از AB قرار گرفته باشد.
+اگر یکی از این دو حالت وجود داشته باشد، خروجی YES و در غیر این صورت NO باشد.
+ورودی
+ورودی شامل یک رشته‌ی s است که از حروف انگلیسی بزرگ تشکیل شده است.
+خروجی
+اگر رشته شامل هر دو زیررشته‌ی AB و BA به صورت غیرهم‌پوشان باشد، عبارت زیر را چاپ کنید:
+YES
+در غیر این صورت، عبارت زیر را چاپ کنید:
+NO
+نمونه ۱
+ورودی:
+ABA
+خروجی:
+NO
+نمونه ۲
+ورودی:
+BACFAB
+خروجی:
+YES
+نمونه ۳
+ورودی:
+ABAB
+خروجی:
+NO
+توضیح
+برای دریافت پاسخ YES، زیررشته‌های AB و BA باید به صورت جدا از یکدیگر و بدون اشتراک هیچ کاراکتری در رشته وجود داشته باشند.
+برای مثال، در رشته‌ی BACFAB، ابتدا زیررشته‌ی BA و سپس زیررشته‌ی AB دیده می‌شود و این دو با یکدیگر هم‌پوشانی ندارند؛ بنابراین پاسخ YES است.
+
