@@ -1,18 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on teaching python<br>
+# Python for Scientific Computing
 
+A collection of Python exercises, scientific computing examples, and introductory data analysis projects developed while building practical programming skills for computational research.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ali_tvi8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alitavahodi) 
+## Overview
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alitavahodi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alitavahodi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alitavahodi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+This repository documents my progression in Python, with an emphasis on scientific computing, numerical methods, data analysis, visualization, and introductory machine learning.
 
----
-[![](https://visitcount.itsvg.in/api?id=alitavahodi&icon=0&color=0)](https://visitcount.itsvg.in)
+The projects range from Python fundamentals to NumPy, SciPy, Matplotlib, regression analysis, and basic computer vision.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Topics Covered
+
+* Python programming fundamentals
+* Object-oriented programming
+* NumPy and numerical computing
+* Matrix and vector operations
+* Matplotlib and data visualization
+* SciPy and numerical methods
+* Linear and polynomial regression
+* Data analysis
+* Basic computer vision
+* Jupyter Notebook workflows
+
+## Repository Structure
+
+```text
+python-scientific-computing/
+│
+├── python-basics/
+├── numpy/
+├── matplotlib/
+├── scipy/
+├── machine-learning/
+├── computer-vision/
+└── datasets/
+```
+
+## Tools & Libraries
+
+* Python
+* NumPy
+* SciPy
+* Matplotlib
+* Jupyter Notebook
+* Pandas
+* scikit-learn
+
+## Selected Projects
+
+### Numerical Computing
+
+Examples involving matrix operations, matrix inversion, vector calculations, and numerical algorithms using NumPy.
+
+### Data Visualization
+
+A collection of Jupyter notebooks exploring data visualization and plotting techniques with Matplotlib.
+
+### Regression
+
+Introductory implementations and experiments involving:
+
+* Simple linear regression
+* Multiple linear regression
+* Polynomial regression
+
+### Computer Vision
+
+Basic image-processing and face-detection experiments using Python.
+
+## Purpose
+
+This repository serves as a record of my development in scientific Python and provides a foundation for applying computational methods to research in physics and materials science.
+
+## Author
+
+**Ali Tavahodi**
+
+M.Sc. in Condensed Matter Physics
+
+Research interests: Computational Physics, Density Functional Theory (DFT), Nanomaterials, Scientific Computing, and Computational Materials Science.
