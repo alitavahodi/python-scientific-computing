@@ -67,9 +67,6 @@ Introductory implementations and experiments involving:
 
 Basic image-processing and face-detection experiments using Python.
 
-## Purpose
-
-This repository serves as a record of my development in scientific Python and provides a foundation for applying computational methods to research in physics and materials science.
 
 ## Author
 
