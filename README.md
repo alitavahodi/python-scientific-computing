@@ -77,4 +77,3 @@ This repository serves as a record of my development in scientific Python and pr
 
 M.Sc. in Condensed Matter Physics
 
-Research interests: Computational Physics, Density Functional Theory (DFT), Nanomaterials, Scientific Computing, and Computational Materials Science.
